@@ -18,4 +18,4 @@ It uses WeatherAPI and dynamic M-queries for live data, and includes interactive
 Built for learning data visualization and portfolio showcasing.
 ## Screenshots
 
-![Dashboard Overview](screenshots/overview.png)  
+![Dashboard Overview](overview.png)  
